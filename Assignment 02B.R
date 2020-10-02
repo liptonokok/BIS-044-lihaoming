@@ -22,3 +22,4 @@ View(theDF)
 Pop <- sum(theDF[1,1]:theDF[10,1])
 Pop
 cat("The sum of popularity is", Pop)
+
