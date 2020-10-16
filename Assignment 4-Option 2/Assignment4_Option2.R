@@ -1,0 +1,6 @@
+#getwd()
+DF <- read.csv("LA_Listings.csv")
+DF <- read_csv("LA_Listings.csv")
+#View(DF)
+summary(LA_Listings $ Bedrooms)
+summary(LA_Listings $ Price)
